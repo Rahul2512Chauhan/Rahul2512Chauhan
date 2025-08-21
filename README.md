@@ -76,11 +76,15 @@ What drives me? The intersection of **cutting-edge research** and **practical im
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### ⚡ Specialized Skills
-- **RAG Systems**: FAISS, ChromaDB, Vector Databases
-- **LLM Operations**: Fine-tuning, LoRA, Prompt Engineering
-- **AI Evaluation**: RAGAS, BLEU/ROUGE, Custom Metrics
-- **Multi-Agent Systems**: LangGraph, CrewAI
-- **Observability**: LangSmith, Weights & Biases
+**RAG Systems**: FAISS, ChromaDB, Vector Databases
+
+**LLM Operations**: Fine-tuning, LoRA, Prompt Engineering
+
+**AI Evaluation**: RAGAS, BLEU/ROUGE, Custom Metrics
+
+**Multi-Agent Systems**: LangGraph, CrewAI
+
+**Observability**: LangSmith, Weights & Biases
 
 </div>
 
@@ -275,19 +279,27 @@ graph LR
 ### 🎯 Learning Milestones
 
 **🏗️ 2023 - Building the Foundation**
-- Mastered Python programming and data manipulation
-- Explored machine learning fundamentals with scikit-learn
-- Built first neural networks and understood deep learning basics
+Mastered Python programming and data manipulation
+
+Explored machine learning fundamentals with scikit-learn
+
+Built first neural networks and understood deep learning basics
+
 
 **🧠 2024 - Diving Deep into AI**
-- Transitioned to PyTorch for advanced model development
-- Experimented with transformer architectures and fine-tuning
-- Developed first RAG systems and NLP applications
+Transitioned to PyTorch for advanced model development
+
+Experimented with transformer architectures and fine-tuning
+
+Developed first RAG systems and NLP applications
+
 
 **🚀 2025 - Production-Ready Systems**
-- Building scalable multi-agent AI architectures
-- Implementing enterprise-grade RAG frameworks
-- Focusing on AI evaluation, observability, and deployment
+Building scalable multi-agent AI architectures
+
+Implementing enterprise-grade RAG frameworks
+
+Focusing on AI evaluation, observability, and deployment
 
 </div>
 
